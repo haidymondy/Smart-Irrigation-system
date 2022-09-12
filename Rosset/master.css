@@ -1,0 +1,14 @@
+body {background-image: url(\"/photo/background.png\");background-attachment: fixed;background-size: contain;padding: 20px;}\n
+.container {display: flex;justify-content: space-between;position: relative;top: 30%;width: 100%;}\n
+.hu img {width: 206px;height: 140px;}\n
+.temp img {width: 220px;height: 130px;}\n
+.sal img {width: 200px;}\n
+.huP img {width: 300px;}\n
+.container div {position: relative;}\n
+.container div p {position: absolute;top: 0px;font-size: 30px;font-weight: bold;font-family: cursive;color: #e67e67;width: 130px;background-color: white;padding: 5px;border-radius: 30px;text-align: center;z-index: -1;}\n
+.num_hu {left: 40%;}\n
+.num_temp {left: 45%;}\n
+.num_sal {right: 40%;}\n
+.num_huP {right: 30%;}\n
+.status {display: flex;justify-content: flex-start;align-items: center;background-color: #e67e677a;width: 800px;padding: 10px;border-radius: 30px;border: 8px solid #e67e67;margin-left: 20%;border-top-left-radius: 122px 126px;border-bottom-left-radius: 131px 152px;margin-top: 10px;}\n
+.status img {width: 300px;}\n
